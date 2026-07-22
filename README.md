@@ -7,7 +7,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ManishMahaur001/Excel-Sales_Report/blob/main/Market%20Performance%20Report.pdf)_
 
-  **3.** create a Division Level Report.(https://github.com/ManishMahaur001/Excel-Sales_Report/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+  **3.** create a Division Level Report.(https://github.com/ManishMahaur001/Excel-Sales_Report/blob/main/Division%20Level%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
